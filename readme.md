@@ -1,8 +1,8 @@
-## Expense Tracker
+# Financial Expense Tracker
 
-Keep track of income and expenses. Add and remove items and save to local storage
+Keep an eye on what you earn and what you spend. Toss in new items, remove the ones you don't need, and everything saves right to local storage so it's still there next time
 
-## Project Specifications
+# Project Specifications
 
 - Create UI for project
 - Display transaction items in DOM
